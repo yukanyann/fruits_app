@@ -12,7 +12,7 @@ idna==3.4
 Jinja2==3.1.2
 markdown==3.4.3
 markupSafe==2.1.1
-numpy==1.23.5
+numpy==1.21.6
 oauthlib==3.2.2
 pillow==9.4.0
 protobuf==4.22.3
